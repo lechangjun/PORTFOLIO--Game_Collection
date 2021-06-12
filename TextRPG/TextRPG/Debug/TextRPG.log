@@ -1,0 +1,6 @@
+﻿  GameManager.cpp
+c:\users\ckdwn\desktop\찐플 다운로드\textrpg\textrpg\mapdraw.h(19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\ckdwn\desktop\찐플 다운로드\textrpg\textrpg\weapon.h(33): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ckdwn\desktop\찐플 다운로드\textrpg\textrpg\gamemanager.cpp(285): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ckdwn\desktop\찐플 다운로드\textrpg\textrpg\gamemanager.cpp(328): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+LINK : fatal error LNK1168: C:\Users\ckdwn\Desktop\찐플 다운로드\TextRPG\Debug\TextRPG.exe을(를) 쓰기용으로 열 수 없습니다.
