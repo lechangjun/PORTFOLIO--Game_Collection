@@ -1,0 +1,16 @@
+#pragma once
+
+enum class STORE_MENU
+{
+	SM_NONE,
+	SM_WEAPON,
+	SM_ARMOR,
+	SM_POTION,
+	SM_BACK,
+
+	SM_SWORD,
+	SW_SPEAR,
+	SW_BOW,
+	SW_WAND,
+	SW_SHURIKEN,
+};
