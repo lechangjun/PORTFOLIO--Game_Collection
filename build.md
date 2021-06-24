@@ -1,26 +1,29 @@
-# build
+# setting
+
+## 접속
 
 ## all
 ```
-mvnw install -Dmaven.test.skip=true
+없음
+
 ```
 
 ## agent
 ```
-mvnw install -pl agent -am -Dmaven.test.skip=true
+없음
 ```
 
 ## collector
 ```
-mvnw install -pl collector -am -Dmaven.test.skip=true
+없음
 ```
 
 ## web
 ```
-mvnw install -pl web -am -Dmaven.test.skip=true
+없음
 ```
 Skip frontend build
 ```
-mvnw install -pl web -am -Dbuild.frontend.skip=true -Dmaven.test.skip=true
+없음
 ```
 
