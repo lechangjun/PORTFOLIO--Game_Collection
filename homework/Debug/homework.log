@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(homework.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
-  InventoryMgr.cpp
-c:\users\sn_07\desktop\textrpg-master\homework\inventorymgr.cpp(120): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\sn_07\desktop\textrpg-master\homework\inventorymgr.cpp(180): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\sn_07\desktop\textrpg-master\homework\inventorymgr.cpp(243): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\sn_07\desktop\textrpg-master\homework\inventorymgr.cpp(272): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
-  homework.vcxproj -> C:\Users\SN_07\Desktop\TextRPG-master\Debug\dfgjofgkjr.exe
