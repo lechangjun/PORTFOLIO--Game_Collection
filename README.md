@@ -1,8 +1,9 @@
+# PORTFOLIO_SGA
 
-
-## 포폴 정리 (2021/06/24)
-
-
+## SGA 포폴 정리 시작 (2021/04/19)
+### 부족한점 보완
+* 2021 06 24 -> C++ 자료 구조 및 STL 추가 학습
+* 2021 06 28 -> Directx_2D 공부 시작 (벡터 && 렌더링 파이프라인)
 
 
 
@@ -11,21 +12,8 @@
 
 ## 2.
 
-## 3.
-
-* u
-* g
-* i
-* h
 
 
-## 4.
- * ㅣㅣ
- * ㅣㅣ
- 
-## 5.
-ㅣㅣㅣ
-  ㅣ
 * **CallStack** - Gain code-level visibility to every transaction in a distributed environment, identifying bottlenecks and points of failure in a single view.
 
   ![Call Stack](doc/images/ss_call-stack.png)
@@ -92,5 +80,4 @@ Pinpoint Version | flink 1.3.X | flink 1.4.X | flink 1.5.X | flink 1.6.X | flink
 
 ## License
 
-```
 
