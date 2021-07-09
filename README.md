@@ -22,8 +22,6 @@
 
   ![Inspector](doc/images/ss_inspector.png)
 
-## 6.
-* JDK 6+
 
 
 
