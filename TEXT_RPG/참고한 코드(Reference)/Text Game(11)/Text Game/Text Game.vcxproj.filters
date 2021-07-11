@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="sdtafx.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="Armor.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="DropItem.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Store.cpp">
+      <Filter>GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>GamePlay</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="Armor.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="DropItem.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Store.h">
+      <Filter>GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemList.h">
+      <Filter>GamePlay</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Item">
+      <UniqueIdentifier>{97c0c8c6-f768-4988-bda5-7abbff25ee4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GamePlay">
+      <UniqueIdentifier>{a66db055-cd74-48a5-9b30-1106d5af380c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
