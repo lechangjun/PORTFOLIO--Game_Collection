@@ -7,7 +7,10 @@
 
 
 
-## 1.
+## 1. TEXT_RPG
 
 
-## 2.
+## 2. TREX GAME
+
+
+## 3. Puzzle Bobble
