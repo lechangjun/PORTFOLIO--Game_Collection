@@ -7,7 +7,14 @@
 * 2021 06 28 -> Directx_2D 공부 시작 (벡터 && 렌더링 파이프라인)
 * 2021 07 28 -> Directx -> Clip 적용
 
+* * *
+적용된 기술
 
+## 1. TEXT_RPG
+
+## 2. TREX GAME
+
+## 3. Puzzle Bobble
 
 * * *
 
