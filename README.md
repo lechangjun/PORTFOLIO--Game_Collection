@@ -1,4 +1,4 @@
-# PORTFOLIO_SGA
+# PORTFOLIO_LEE
 
 ## SGA 포폴 정리 시작 (2021/04/19)
 ### 부족한점 보완
