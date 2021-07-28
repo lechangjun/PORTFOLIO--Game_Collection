@@ -1,3 +1,4 @@
+
 # PORTFOLIO_LEE
 
 ## SGA 포폴 정리 시작 (2021/04/19)
@@ -16,3 +17,4 @@
 
 
 ## 3. Puzzle Bobble
+https://user-images.githubusercontent.com/68671394/127319748-dc5a3a66-0271-4835-b97d-cebe771395fa.mp4
