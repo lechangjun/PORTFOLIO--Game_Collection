@@ -15,6 +15,9 @@
 
 ## 2. TREX GAME
 
+https://user-images.githubusercontent.com/68671394/127321686-0026306f-f22c-4b6e-bba4-49ebf60e100b.mp4
+
+
 
 ## 3. Puzzle Bobble
 https://user-images.githubusercontent.com/68671394/127319748-dc5a3a66-0271-4835-b97d-cebe771395fa.mp4
