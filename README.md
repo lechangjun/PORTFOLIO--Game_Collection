@@ -8,13 +8,6 @@
 * 2021 07 28 -> Directx -> Clip 적용
 
 * * *
-적용된 기술
-
-## 1. TEXT_RPG
-
-## 2. TREX GAME
-
-## 3. Puzzle Bobble
 
 * * *
 
