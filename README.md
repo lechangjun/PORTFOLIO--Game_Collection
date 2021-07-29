@@ -17,9 +17,16 @@
 
 
 ## 2. TREX GAME
+ TREX GAME
+
 
 https://user-images.githubusercontent.com/68671394/127321686-0026306f-f22c-4b6e-bba4-49ebf60e100b.mp4
 
+## 2.5 TREX GAME
+
+ TREX GAME
+
+https://user-images.githubusercontent.com/68671394/127443602-8beb30ad-fd1f-488b-8ec1-e1fd2a3e1b51.mp4
 
 
 ## 3. Puzzle Bobble
