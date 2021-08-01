@@ -15,7 +15,6 @@
 
 ## 1. TEXT_RPG
 
-
 https://user-images.githubusercontent.com/68671394/127777054-d92a3176-b9a1-4376-ab6e-c3fd56926dc9.mp4
 
 
