@@ -88,6 +88,8 @@ int main()
       }
 
     ///////Tick//////
+        
+        
     if (timer>delay)
       {
         for (int i=0;i<4;i++) { b[i]=a[i]; a[i].y+=1; }
